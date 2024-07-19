@@ -17,7 +17,7 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 
 ## 🚀 Introduction
 
-### *25th May 2024*
+### *15th May 2024*
 - *AWS Bootcamp Live Session*: Basics of Amazon Web Services
 - On 25th may, there was a live bootcamp which Amit Arora sir(Security Architect at AWS) is doing for an AWS Club where entry level engineers can participate and build there AWS skills from groundsup.. So it wasn't the start of internship but we learnt the basics of amazon web services , how it provides various functionalities to developers.
 The internsip period is of 4 weeks with focus on Labs and Practical Insights to make familiar with aws.
@@ -25,7 +25,7 @@ The internsip period is of 4 weeks with focus on Labs and Practical Insights to 
 # Start of Internship
 
 ## 1️⃣ week 1
-### *28th May 2024*
+### *20th May 2024*
 - *Orientation Meeting*: Introduction to AWS and overview of the internship tasks
 - At the start of meeting I tackled questions regarding aws to know its base. Then the 1st week agenda regarding the tasks to be done was discussed. The tasks including from the start of creating an account to generating a portfolio hosted on a aws instance.
 
