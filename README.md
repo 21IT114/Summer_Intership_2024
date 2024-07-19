@@ -29,9 +29,6 @@ The internsip period is of 4 weeks with focus on Labs and Practical Insights to 
 - *Orientation Meeting*: Introduction to AWS and overview of the internship tasks
 - At the start of meeting I tackled questions regarding aws to know its base. Then the 1st week agenda regarding the tasks to be done was discussed. The tasks including from the start of creating an account to generating a portfolio hosted on a aws instance.
 
-<img src="https://media.licdn.com/dms/image/D5612AQEpoU1DdzX4yw/article-cover_image-shrink_600_2000/0/1654203654746?e=2147483647&v=beta&t=1WAkA9Pdvki3nSBEkXHCF7LkPrQvbmaeJu39czxaqpg" alt="AWS Bootcamp" width="300"/>
-
-
 ### *Here is the Outine of Week-1:*
 
 1. Create an AWS Free Tier account
@@ -128,7 +125,6 @@ https://github.com/hamidgholami/accp-cheatsheet
 ### *4th June 2024*
 - *Online Session*: Learning about storage and S3 with its related services ,also swictching from EC2 to S3
 - In the start of meeting we were asked rapid questions regarding week 1 task.
-  ![AWS Cloudfront](https://media.licdn.com/dms/image/C4E12AQEYszsOFAPr5w/article-cover_image-shrink_423_752/0/1604073753428?e=1723680000&v=beta&t=jL2yIMG8R1YzgOTl7VSfr4YN6m50WtYwZTvAFLipRRE)
 
 
 ### *Here is the Outine of Week-2:*
